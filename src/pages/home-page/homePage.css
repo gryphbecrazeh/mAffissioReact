@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    background-color:var(--body-bg-color); 
+}
+.homePage{
+margin-top: 0;
+margin-left: .5em;
+margin-right: .5em;
+margin-bottom: 10em;
+    background-color: var(--super-bg-color);
+}
+.header{
+
+}
+.navBar{
+
+}
+.footer{
+
+}

@@ -1,0 +1,9 @@
+.navBar ul{
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    list-style: none;
+    padding: 2em;
+}
